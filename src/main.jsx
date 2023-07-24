@@ -6,7 +6,6 @@ import AboutPage from "./pages/AboutPage";
 import DealsPage from "./pages/DealsPage";
 import ReservationPage from "./pages/ReservationPage";
 import BookYoursPage from "./pages/BookYoursPage"; 
-import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <Router>

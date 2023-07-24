@@ -1,7 +1,5 @@
-module.exports = {
-  syntax: 'postcss-scss',
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {}
-  }
+export const syntax = 'postcss-scss';
+export const plugins = {
+  tailwindcss: {},
+  autoprefixer: {}
 };
